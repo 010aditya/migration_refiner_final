@@ -1,4 +1,4 @@
-# 🧠 Migration Refiner (Silver Bullet Edition)
+# 🧠 Migration Refiner 
 
 A powerful agent-driven pipeline to refine and complete legacy Java migrations (e.g., EJB, JSP, Struts, iBatis) into **Spring Boot** applications — and make them compile, build, and test successfully using GPT-4o.
 
